@@ -1,4 +1,5 @@
-<img width="1280" height="960" alt="photo_2026-07-28_16-23-33" src="https://github.com/user-attachments/assets/bf96811a-4ca0-4d7c-b1e9-62ed10a599d8" />
+<img width="2048" height="768" alt="ChatGPT Image 6 سبتمبر 2026، 06_39_24 م" src="https://github.com/user-attachments/assets/e7230e19-01b0-4c7a-9b92-17ad4786f198" />
+
 # 💫 About Me:
 🩺 4th-year Medical Student in Algeria, building software alongside my studies.<br><br>💻 I work across Rust, Go, and Python — backend services, systems-level <br>programming, and cross-platform apps (React/Flutter) — with Docker and AWS <br>for deployment.<br><br>🔬 Interested in HealthTech and applying my medical background to build <br>tools that solve real problems for clinicians and patients.<br><br>🌱 Currently exploring Rust for systems programming and researching <br>Spiking Neural Networks (SNNs).<br><br>🤝 Open to collaboration, freelance work, and opportunities in backend/<br>systems development or HealthTech.<br><br>📫 Reach me on LinkedIn: [[your link](https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BES36D%2FcAQkmYi3ji0a3zjA%3D%3D)]
 

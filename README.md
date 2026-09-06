@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td width="60%" valign="middle">
+<img src="https://github.com/user-attachments/assets/e7230e19-01b0-4c7a-9b92-17ad4786f198" align="right" width="650"/>
 
 ### Hey 👋, I'm Fares
 
@@ -12,15 +10,11 @@ Backend & systems development in **Rust · Go · Python · C++**, deployed with 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Firefares2005)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/goldenfares)
 
-</td>
-<td width="40%">
+<br/>
 
-<img src="https://github.com/user-attachments/assets/e7230e19-01b0-4c7a-9b92-17ad4786f198" width="100%"/>
+<img src="https://skillicons.dev/icons?i=rust,go,python,cpp,linux,docker,git,githubactions,aws,gcp,postgres,cloudflare&theme=dark" />
 
-</td>
-</tr>
-</table>
-
+<br clear="right"/>
 <br/>
 
 <div align="center">

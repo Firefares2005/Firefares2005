@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/e7230e19-01b0-4c7a-9b92-17ad4786f198" align="right" width="400"/>
 
-### Hey 👋, I'm Fares
+### Hey 👋, I'm Fares.
 
 🩺 Medical Student · 💻 Backend & Systems Engineer
 

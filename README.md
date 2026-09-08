@@ -18,10 +18,8 @@ Backend & systems development in **Rust · Go · Python · C++**, deployed with 
 <br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Firefares2005&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Firefares2005&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="150"/>
 <img src="https://github-readme-stats.shion.dev/api?username=Firefares2005&show_icons=true&theme=github_dark&hide_border=true&icon_color=58A6FF" height="150"/>
-
 </div>
 
 <br/>

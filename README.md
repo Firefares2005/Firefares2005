@@ -4,8 +4,9 @@
 
 🩺 Medical Student · 💻 Backend & Systems Engineer
 
-Backend & systems development in **Rust · Go · Python · C++**, deployed with Docker & AWS. Exploring Rust for systems programming and researching Spiking Neural Networks.
+Software engineer specialized primarily in C++, alongside Go, Python, and Rust. I engineer low-level systems, high-performance engine architectures, networking protocols, and memory-efficient software where execution speed, concurrency, and hardware-level control are critical.
 
+I am also a medical student, bringing deep discipline, analytical precision, and systematic problem solving to codebases. Additionally, toward the end of the stack, I build mobile applications and web services when bringing full products to life
 [![Follow](https://img.shields.io/github/followers/Firefares2005?label=Follow&style=social)](https://github.com/Firefares2005)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Firefares2005)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/goldenfares)
